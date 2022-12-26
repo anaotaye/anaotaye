@@ -23,7 +23,7 @@
   
   
   ### :woman_technologist: About Me:
-  I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Nigeria.
+  I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" /> from Nigeria.
   - :computer: A Frontend Developer who works well both alone and in a team.
   - :nerd_face: Tech enthusiast.
   - :notebook_with_decorative_cover: Avid novel reader.
