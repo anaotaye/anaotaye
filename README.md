@@ -12,7 +12,7 @@
     </a>
   </div>
 
-  ### Hi there 👋
+  ### Hi there, I'm Anastasia Otaye 👋
   
   <div>
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300" />
